@@ -1,0 +1,6 @@
+authors = ["Carsten Bauer <crstnbr@gmail.com>"]
+name = "MCOPlots"
+uuid = "d5f92760-f0e6-11e8-3771-3d1bb351d397"
+version = "0.1.0"
+
+[deps]
