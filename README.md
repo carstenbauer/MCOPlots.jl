@@ -1,8 +1,8 @@
-# MonteCarloObservable: Plots
+# MCOPlots.jl
 
 Plotting utilities for MonteCarloObservable.jl
 
-# Installation
+### Installation
 
 In the REPL, switch to pkg mode (by pressing `]`) and enter
 ```julia
@@ -15,6 +15,6 @@ using Pkg
 Pkg.add("https://github.com/crstnbr/MCOPlots.jl")
 ```
 
-# Documentation
+### Documentation
 
 Look at MonteCarloObservable.jl's [documentation](https://crstnbr.github.io/MonteCarloObservable.jl/latest) for more information.
